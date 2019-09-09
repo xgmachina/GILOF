@@ -1,2 +1,2 @@
-# GILOF
-Additional experimental results for the GILOF algorithm
+# Additional results in GILOF experiments 
+This document contains the additional tables and descriptions for the paper ‘Genetic-based Incremental Local Outlier Factor Algorithm for Efficient Data Stream Processing’.  It includes the performance results of GILOF, GILOF_NS, DILOF and DILOF_NS based on certain window sizes. For GILOF and GILOF_NS, each table shows the experiment’s performance results with different hyperparameters. The non-parametric test tables and memory consumption tables are also provided. For more infomraiton please contact the authors Xiaogang Ma (max@uidaho.edu) or Omar Alghushairy (algh5752@vandals.uidaho.edu).
